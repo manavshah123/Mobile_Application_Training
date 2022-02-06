@@ -8,3 +8,5 @@
 
 1. Basic Program of Kotlin: https://github.com/manavshah123/Kotlin_Basic
 2. Login Signup Page User Interface : https://github.com/manavshah123/Login_Signup_Page_UI
+3. Notes Application with local database : https://github.com/manavshah123/Androi_notes_app
+4. News App with API : https://github.com/manavshah123/News_App_with_volley
