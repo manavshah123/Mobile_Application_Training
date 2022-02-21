@@ -34,3 +34,4 @@
  4. Login UI React Native:- https://github.com/manavshah123/Login_UI_React_Native
  5. Ecommerce Mobile Application using React Native:- https://github.com/manavshah123/Ecommerce_with_API_React_Native 
  6. Paytm Clone React Native:- https://github.com/manavshah123/paytm_clone_React_Native
+ 7. Movie Searching App:- https://github.com/manavshah123/movie_searching_app
