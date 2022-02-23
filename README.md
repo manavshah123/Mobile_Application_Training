@@ -35,3 +35,4 @@
  5. Ecommerce Mobile Application using React Native:- https://github.com/manavshah123/Ecommerce_with_API_React_Native 
  6. Paytm Clone React Native:- https://github.com/manavshah123/paytm_clone_React_Native
  7. Movie Searching App:- https://github.com/manavshah123/movie_searching_app
+ 8. Fruit Search from API:- https://github.com/manavshah123/Search_Fruit_Ecommerce
