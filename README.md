@@ -38,4 +38,4 @@
  8. Fruit Search from API:- https://github.com/manavshah123/Search_Fruit_Ecommerce
  9. Flipkart Clone:- https://github.com/manavshah123/Flipkart_Clone
 
- <h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/animation_500_l06na5ps.gif"  width="300"></h1>
+ <h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/animation_500_l06na5ps.gif"  width="250"></h1>
