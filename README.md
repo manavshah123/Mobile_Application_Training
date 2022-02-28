@@ -25,7 +25,7 @@
 5. Tableview_test_Swift : https://github.com/manavshah123/Tableview_test_Swift
 6. Note_App_Swift : https://github.com/manavshah123/Note_App_Swift
 
-<h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/React.gif"  width="300"></h1>
+<h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/React.gif"  width="200"></h1>
     
 ## React JS and React Native
  1. Signup Page: https://github.com/manavshah123/Signup_Page_HTML_CSS
@@ -38,4 +38,4 @@
  8. Fruit Search from API:- https://github.com/manavshah123/Search_Fruit_Ecommerce
  9. Flipkart Clone:- https://github.com/manavshah123/Flipkart_Clone
 
- <h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/animation_500_l06na5ps.gif"  width="200"></h1>
+ <h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/animation_500_l06na5ps.gif"  width="300"></h1>
