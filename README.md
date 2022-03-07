@@ -42,3 +42,5 @@
 
  ## Flutter
   1. Home Page Flutter: https://github.com/manavshah123/Home_page_flutter
+  2. Banking Home Page Flutter: https://github.com/manavshah123/Banking_home_page_flutter
+  3. Resturant Page Flutter: https://github.com/manavshah123/Resturant_app_Flutter
