@@ -41,6 +41,7 @@
  <h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/animation_500_l06na5ps.gif"  width="250"></h1>
 
  ## Flutter
-  1. Home Page Flutter: https://github.com/manavshah123/Home_page_flutter
-  2. Banking Home Page Flutter: https://github.com/manavshah123/Banking_home_page_flutter
-  3. Resturant Page Flutter: https://github.com/manavshah123/Resturant_app_Flutter
+  1. Basic of Dart: https://github.com/manavshah123/Basic_dart
+  2. Home Page Flutter: https://github.com/manavshah123/Home_page_flutter
+  3. Banking Home Page Flutter: https://github.com/manavshah123/Banking_home_page_flutter
+  4. Resturant Page Flutter: https://github.com/manavshah123/Resturant_app_Flutter
